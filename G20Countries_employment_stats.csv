@@ -1,0 +1,169 @@
+,Country Name,Country Code,Series Name,2018,2019,Gender
+95,Argentina,ARG,"Employers, female (% of female employment) (modeled ILO estimate)",2.6159999370575,2.60899996757507,Female
+719,Australia,AUS,"Employers, female (% of female employment) (modeled ILO estimate)",3.83599996566772,3.78999996185303,Female
+1343,Brazil,BRA,"Employers, female (% of female employment) (modeled ILO estimate)",3.3050000667572,3.2720000743866,Female
+1967,Canada,CAN,"Employers, female (% of female employment) (modeled ILO estimate)",2.70499992370605,2.67600011825562,Female
+2591,China,CHN,"Employers, female (% of female employment) (modeled ILO estimate)",0.72299998998642,0.745000004768372,Female
+3215,France,FRA,"Employers, female (% of female employment) (modeled ILO estimate)",2.16400003433228,2.15700006484985,Female
+3839,Germany,DEU,"Employers, female (% of female employment) (modeled ILO estimate)",2.29500007629395,2.27800011634827,Female
+4463,India,IND,"Employers, female (% of female employment) (modeled ILO estimate)",0.51800000667572,0.523999989032745,Female
+5087,Indonesia,IDN,"Employers, female (% of female employment) (modeled ILO estimate)",1.90400004386902,1.92900002002716,Female
+5711,Italy,ITA,"Employers, female (% of female employment) (modeled ILO estimate)",3.53099989891052,3.5239999294281,Female
+6335,Japan,JPN,"Employers, female (% of female employment) (modeled ILO estimate)",0.74099999666214,0.745000004768372,Female
+6959,Mexico,MEX,"Employers, female (% of female employment) (modeled ILO estimate)",2.57599997520447,2.56800007820129,Female
+7583,"Korea, Rep.",KOR,"Employers, female (% of female employment) (modeled ILO estimate)",3.52500009536743,3.54699993133545,Female
+8207,Russian Federation,RUS,"Employers, female (% of female employment) (modeled ILO estimate)",0.945999979972839,0.944000005722046,Female
+8831,Saudi Arabia,SAU,"Employers, female (% of female employment) (modeled ILO estimate)",0.204999998211861,0.207000002264977,Female
+9455,Singapore,SGP,"Employers, female (% of female employment) (modeled ILO estimate)",2.5699999332428,2.58599996566772,Female
+10079,South Africa,ZAF,"Employers, female (% of female employment) (modeled ILO estimate)",2.29299998283386,2.30999994277954,Female
+10703,Turkey,TUR,"Employers, female (% of female employment) (modeled ILO estimate)",1.25,1.25399994850159,Female
+11327,United States,USA,"Employers, female (% of female employment) (modeled ILO estimate)",1.79299998283386,1.76499998569489,Female
+11951,United Kingdom,GBR,"Employers, female (% of female employment) (modeled ILO estimate)",1.24100005626678,1.24000000953674,Female
+12575,European Union,EUU,"Employers, female (% of female employment) (modeled ILO estimate)",2.48619796990768,2.47566956667685,Female
+96,Argentina,ARG,"Employers, male (% of male employment) (modeled ILO estimate)",4.86399984359741,4.86399984359741,Male
+720,Australia,AUS,"Employers, male (% of male employment) (modeled ILO estimate)",7.53299999237061,7.46000003814697,Male
+1344,Brazil,BRA,"Employers, male (% of male employment) (modeled ILO estimate)",6.0019998550415,5.93800020217896,Male
+1968,Canada,CAN,"Employers, male (% of male employment) (modeled ILO estimate)",6.36600017547607,6.31199979782104,Male
+2592,China,CHN,"Employers, male (% of male employment) (modeled ILO estimate)",1.83299994468689,1.86000001430511,Male
+3216,France,FRA,"Employers, male (% of male employment) (modeled ILO estimate)",6.14200019836426,6.12200021743774,Male
+3840,Germany,DEU,"Employers, male (% of male employment) (modeled ILO estimate)",5.94700002670288,5.91599988937378,Male
+4464,India,IND,"Employers, male (% of male employment) (modeled ILO estimate)",2.38499999046326,2.39000010490417,Male
+5088,Indonesia,IDN,"Employers, male (% of male employment) (modeled ILO estimate)",4.65000009536743,4.67399978637695,Male
+5712,Italy,ITA,"Employers, male (% of male employment) (modeled ILO estimate)",7.89900016784668,7.89499998092651,Male
+6336,Japan,JPN,"Employers, male (% of male employment) (modeled ILO estimate)",2.85199999809265,2.81699991226196,Male
+6960,Mexico,MEX,"Employers, male (% of male employment) (modeled ILO estimate)",6.15000009536743,6.1269998550415,Male
+7584,"Korea, Rep.",KOR,"Employers, male (% of male employment) (modeled ILO estimate)",7.60200023651123,7.49499988555908,Male
+8208,Russian Federation,RUS,"Employers, male (% of male employment) (modeled ILO estimate)",1.91999995708466,1.91100001335144,Male
+8832,Saudi Arabia,SAU,"Employers, male (% of male employment) (modeled ILO estimate)",2.11199998855591,2.11700010299683,Male
+9456,Singapore,SGP,"Employers, male (% of male employment) (modeled ILO estimate)",5.63899993896484,5.62400007247925,Male
+10080,South Africa,ZAF,"Employers, male (% of male employment) (modeled ILO estimate)",7.56500005722046,7.56799983978271,Male
+10704,Turkey,TUR,"Employers, male (% of male employment) (modeled ILO estimate)",5.96199989318848,5.95699977874756,Male
+11328,United States,USA,"Employers, male (% of male employment) (modeled ILO estimate)",2.95600008964539,2.90899991989136,Male
+11952,United Kingdom,GBR,"Employers, male (% of male employment) (modeled ILO estimate)",2.77500009536743,2.77099990844727,Male
+12576,European Union,EUU,"Employers, male (% of male employment) (modeled ILO estimate)",5.86693313222967,5.84911999134702,Male
+97,Argentina,ARG,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",0.0579999983310699,0.0489999987185001,Female
+721,Australia,AUS,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",1.67499995231628,1.63100004196167,Female
+1345,Brazil,BRA,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",4.1399998664856,4.09899997711182,Female
+1969,Canada,CAN,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",0.939000010490417,0.904999971389771,Female
+2593,China,CHN,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",23.2779998779297,22.6350002288818,Female
+3217,France,FRA,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",1.39400005340576,1.35599994659424,Female
+3841,Germany,DEU,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",0.847000002861023,0.810999989509583,Female
+4465,India,IND,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",55.5279998779297,54.5390014648438,Female
+5089,Indonesia,IDN,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",27.5219993591309,26.4950008392334,Female
+5713,Italy,ITA,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",2.3989999294281,2.32299995422363,Female
+6337,Japan,JPN,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",3.01900005340576,2.94199991226196,Female
+6961,Mexico,MEX,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",3.59400010108948,3.48699998855591,Female
+7585,"Korea, Rep.",KOR,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",4.74300003051758,4.61100006103516,Female
+8209,Russian Federation,RUS,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",3.99300003051758,3.90100002288818,Female
+8833,Saudi Arabia,SAU,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",0.469999998807907,0.347000002861023,Female
+9457,Singapore,SGP,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",0.337999999523163,0.330000013113022,Female
+10081,South Africa,ZAF,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",3.87800002098084,3.73200011253357,Female
+10705,Turkey,TUR,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",26.0249996185303,25.8579998016357,Female
+11329,United States,USA,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",0.754999995231628,0.726000010967255,Female
+11953,United Kingdom,GBR,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",0.617999970912933,0.586000025272369,Female
+12577,European Union,EUU,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",3.33831275685106,3.19039510444348,Female
+98,Argentina,ARG,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",0.122000001370907,0.123999997973442,Male
+722,Australia,AUS,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",3.43499994277954,3.36700010299683,Male
+1346,Brazil,BRA,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",13.0640001296997,13.0179996490479,Male
+1970,Canada,CAN,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",1.98099994659424,1.94599997997284,Male
+2594,China,CHN,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",28.3290004730225,27.5049991607666,Male
+3218,France,FRA,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",3.53500008583069,3.45000004768372,Male
+3842,Germany,DEU,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",1.60000002384186,1.557000041008,Male
+4466,India,IND,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",40.2369995117188,39.3269996643066,Male
+5090,Indonesia,IDN,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",31.0030002593994,30.0240001678467,Male
+5714,Italy,ITA,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",4.74200010299683,4.67600011825562,Male
+6338,Japan,JPN,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",3.86800003051758,3.80299997329712,Male
+6962,Mexico,MEX,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",18.3740005493164,18.1180000305176,Male
+7586,"Korea, Rep.",KOR,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",5.18100023269653,5.07399988174438,Male
+8210,Russian Federation,RUS,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",7.67000007629395,7.51399993896484,Male
+8834,Saudi Arabia,SAU,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",2.8289999961853,2.71300005912781,Male
+9458,Singapore,SGP,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",1.01999998092651,1.00800001621246,Male
+10082,South Africa,ZAF,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",6.17799997329712,6.15399980545044,Male
+10706,Turkey,TUR,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",14.8629999160767,14.878999710083,Male
+11330,United States,USA,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",1.89400005340576,1.8639999628067,Male
+11954,United Kingdom,GBR,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",1.46899998188019,1.43099999427795,Male
+12578,European Union,EUU,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",5.50874850966963,5.35566021311485,Male
+99,Argentina,ARG,"Employment in industry, female (% of female employment) (modeled ILO estimate)",9.13599967956543,8.82900047302246,Female
+723,Australia,AUS,"Employment in industry, female (% of female employment) (modeled ILO estimate)",8.14900016784668,8.08899974822998,Female
+1347,Brazil,BRA,"Employment in industry, female (% of female employment) (modeled ILO estimate)",10.753999710083,10.4759998321533,Female
+1971,Canada,CAN,"Employment in industry, female (% of female employment) (modeled ILO estimate)",8.47299957275391,8.39299964904785,Female
+2595,China,CHN,"Employment in industry, female (% of female employment) (modeled ILO estimate)",25.4519996643066,25.2959995269775,Female
+3219,France,FRA,"Employment in industry, female (% of female employment) (modeled ILO estimate)",9.64000034332275,9.45899963378906,Female
+3843,Germany,DEU,"Employment in industry, female (% of female employment) (modeled ILO estimate)",13.9469995498657,13.6920003890991,Female
+4467,India,IND,"Employment in industry, female (% of female employment) (modeled ILO estimate)",17.2779998779297,17.6040000915527,Female
+5091,Indonesia,IDN,"Employment in industry, female (% of female employment) (modeled ILO estimate)",16.9810009002686,17.0270004272461,Female
+5715,Italy,ITA,"Employment in industry, female (% of female employment) (modeled ILO estimate)",13.0979995727539,12.8929996490479,Female
+6339,Japan,JPN,"Employment in industry, female (% of female employment) (modeled ILO estimate)",14.1440000534058,13.996000289917,Female
+6963,Mexico,MEX,"Employment in industry, female (% of female employment) (modeled ILO estimate)",17.8059997558594,17.6949996948242,Female
+7587,"Korea, Rep.",KOR,"Employment in industry, female (% of female employment) (modeled ILO estimate)",13.4899997711182,13.3249998092651,Female
+8211,Russian Federation,RUS,"Employment in industry, female (% of female employment) (modeled ILO estimate)",15.7370004653931,15.5869998931885,Female
+8835,Saudi Arabia,SAU,"Employment in industry, female (% of female employment) (modeled ILO estimate)",2.18499994277954,2.14000010490417,Female
+9459,Singapore,SGP,"Employment in industry, female (% of female employment) (modeled ILO estimate)",10.9069995880127,10.6160001754761,Female
+10083,South Africa,ZAF,"Employment in industry, female (% of female employment) (modeled ILO estimate)",11.6260004043579,11.4399995803833,Female
+10707,Turkey,TUR,"Employment in industry, female (% of female employment) (modeled ILO estimate)",16.0729999542236,15.7510004043579,Female
+11331,United States,USA,"Employment in industry, female (% of female employment) (modeled ILO estimate)",8.77499961853027,8.68099975585938,Female
+11955,United Kingdom,GBR,"Employment in industry, female (% of female employment) (modeled ILO estimate)",7.44999980926514,7.33500003814697,Female
+12579,European Union,EUU,"Employment in industry, female (% of female employment) (modeled ILO estimate)",13.0371847145952,12.8466121262148,Female
+100,Argentina,ARG,"Employment in industry, male (% of male employment) (modeled ILO estimate)",31.3059997558594,30.6809997558594,Male
+724,Australia,AUS,"Employment in industry, male (% of male employment) (modeled ILO estimate)",30.0860004425049,29.9899997711182,Male
+1348,Brazil,BRA,"Employment in industry, male (% of male employment) (modeled ILO estimate)",27.0939998626709,26.6800003051758,Male
+1972,Canada,CAN,"Employment in industry, male (% of male employment) (modeled ILO estimate)",29.6240005493164,29.511999130249,Male
+2596,China,CHN,"Employment in industry, male (% of male employment) (modeled ILO estimate)",30.3449993133545,30.4810009002686,Male
+3220,France,FRA,"Employment in industry, male (% of male employment) (modeled ILO estimate)",30.1030006408691,29.9389991760254,Male
+3844,Germany,DEU,"Employment in industry, male (% of male employment) (modeled ILO estimate)",39.0019989013672,38.640998840332,Male
+4468,India,IND,"Employment in industry, male (% of male employment) (modeled ILO estimate)",26.8929996490479,27.5830001831055,Male
+5092,Indonesia,IDN,"Employment in industry, male (% of male employment) (modeled ILO estimate)",25.7290000915527,25.9750003814697,Male
+5716,Italy,ITA,"Employment in industry, male (% of male employment) (modeled ILO estimate)",35.5229988098145,35.3219985961914,Male
+6340,Japan,JPN,"Employment in industry, male (% of male employment) (modeled ILO estimate)",32.5219993591309,32.3709983825684,Male
+6964,Mexico,MEX,"Employment in industry, male (% of male employment) (modeled ILO estimate)",31.1520004272461,31.246000289917,Male
+7588,"Korea, Rep.",KOR,"Employment in industry, male (% of male employment) (modeled ILO estimate)",33.7459983825684,33.7519989013672,Male
+8212,Russian Federation,RUS,"Employment in industry, male (% of male employment) (modeled ILO estimate)",37.2820014953613,37.173999786377,Male
+8836,Saudi Arabia,SAU,"Employment in industry, male (% of male employment) (modeled ILO estimate)",28.2019996643066,28.076000213623,Male
+9460,Singapore,SGP,"Employment in industry, male (% of male employment) (modeled ILO estimate)",19.3150005340576,18.9409999847412,Male
+10084,South Africa,ZAF,"Employment in industry, male (% of male employment) (modeled ILO estimate)",32.181999206543,31.9209995269775,Male
+10708,Turkey,TUR,"Employment in industry, male (% of male employment) (modeled ILO estimate)",31.6399993896484,31.2430000305176,Male
+11332,United States,USA,"Employment in industry, male (% of male employment) (modeled ILO estimate)",29.3560009002686,29.3099994659424,Male
+11956,United Kingdom,GBR,"Employment in industry, male (% of male employment) (modeled ILO estimate)",27.5330009460449,27.2169990539551,Male
+12580,European Union,EUU,"Employment in industry, male (% of male employment) (modeled ILO estimate)",35.1644942761307,35.0161715645071,Male
+101,Argentina,ARG,"Employment in services, female (% of female employment) (modeled ILO estimate)",90.8059997558594,91.1220016479492,Female
+725,Australia,AUS,"Employment in services, female (% of female employment) (modeled ILO estimate)",90.1760025024414,90.2799987792969,Female
+1349,Brazil,BRA,"Employment in services, female (% of female employment) (modeled ILO estimate)",85.1060028076172,85.4250030517578,Female
+1973,Canada,CAN,"Employment in services, female (% of female employment) (modeled ILO estimate)",90.5879974365234,90.7020034790039,Female
+2597,China,CHN,"Employment in services, female (% of female employment) (modeled ILO estimate)",51.2700004577637,52.0690002441406,Female
+3221,France,FRA,"Employment in services, female (% of female employment) (modeled ILO estimate)",88.9660034179688,89.1849975585938,Female
+3845,Germany,DEU,"Employment in services, female (% of female employment) (modeled ILO estimate)",85.2060012817383,85.4970016479492,Female
+4469,India,IND,"Employment in services, female (% of female employment) (modeled ILO estimate)",27.1940002441406,27.8570003509521,Female
+5093,Indonesia,IDN,"Employment in services, female (% of female employment) (modeled ILO estimate)",55.4970016479492,56.4780006408691,Female
+5717,Italy,ITA,"Employment in services, female (% of female employment) (modeled ILO estimate)",84.5029983520508,84.7839965820313,Female
+6341,Japan,JPN,"Employment in services, female (% of female employment) (modeled ILO estimate)",82.8369979858398,83.0619964599609,Female
+6965,Mexico,MEX,"Employment in services, female (% of female employment) (modeled ILO estimate)",78.5999984741211,78.818000793457,Female
+7589,"Korea, Rep.",KOR,"Employment in services, female (% of female employment) (modeled ILO estimate)",81.7669982910156,82.0640029907227,Female
+8213,Russian Federation,RUS,"Employment in services, female (% of female employment) (modeled ILO estimate)",80.2689971923828,80.5110015869141,Female
+8837,Saudi Arabia,SAU,"Employment in services, female (% of female employment) (modeled ILO estimate)",97.3450012207031,97.5130004882813,Female
+9461,Singapore,SGP,"Employment in services, female (% of female employment) (modeled ILO estimate)",88.7539978027344,89.0540008544922,Female
+10085,South Africa,ZAF,"Employment in services, female (% of female employment) (modeled ILO estimate)",84.4960021972656,84.8280029296875,Female
+10709,Turkey,TUR,"Employment in services, female (% of female employment) (modeled ILO estimate)",57.9020004272461,58.390998840332,Female
+11333,United States,USA,"Employment in services, female (% of female employment) (modeled ILO estimate)",90.4690017700195,90.5940017700195,Female
+11957,United Kingdom,GBR,"Employment in services, female (% of female employment) (modeled ILO estimate)",91.9329986572266,92.0790023803711,Female
+12581,European Union,EUU,"Employment in services, female (% of female employment) (modeled ILO estimate)",83.6245971026444,83.9629493286857,Female
+102,Argentina,ARG,"Employment in services, male (% of male employment) (modeled ILO estimate)",68.5709991455078,69.1949996948242,Male
+726,Australia,AUS,"Employment in services, male (% of male employment) (modeled ILO estimate)",66.4789962768555,66.6419982910156,Male
+1350,Brazil,BRA,"Employment in services, male (% of male employment) (modeled ILO estimate)",59.8419990539551,60.3019981384277,Male
+1974,Canada,CAN,"Employment in services, male (% of male employment) (modeled ILO estimate)",68.3949966430664,68.5410003662109,Male
+2598,China,CHN,"Employment in services, male (% of male employment) (modeled ILO estimate)",41.3269996643066,42.0139999389648,Male
+3222,France,FRA,"Employment in services, male (% of male employment) (modeled ILO estimate)",66.3619995117188,66.6110000610352,Male
+3846,Germany,DEU,"Employment in services, male (% of male employment) (modeled ILO estimate)",59.3979988098145,59.8019981384277,Male
+4470,India,IND,"Employment in services, male (% of male employment) (modeled ILO estimate)",32.8699989318848,33.0900001525879,Male
+5094,Indonesia,IDN,"Employment in services, male (% of male employment) (modeled ILO estimate)",43.2669982910156,44.0009994506836,Male
+5718,Italy,ITA,"Employment in services, male (% of male employment) (modeled ILO estimate)",59.7350006103516,60.0019989013672,Male
+6342,Japan,JPN,"Employment in services, male (% of male employment) (modeled ILO estimate)",63.609001159668,63.826000213623,Male
+6966,Mexico,MEX,"Employment in services, male (% of male employment) (modeled ILO estimate)",50.4739990234375,50.6360015869141,Male
+7590,"Korea, Rep.",KOR,"Employment in services, male (% of male employment) (modeled ILO estimate)",61.0730018615723,61.173999786377,Male
+8214,Russian Federation,RUS,"Employment in services, male (% of male employment) (modeled ILO estimate)",55.0470008850098,55.3120002746582,Male
+8838,Saudi Arabia,SAU,"Employment in services, male (% of male employment) (modeled ILO estimate)",68.9680023193359,69.2109985351563,Male
+9462,Singapore,SGP,"Employment in services, male (% of male employment) (modeled ILO estimate)",79.6660003662109,80.0510025024414,Male
+10086,South Africa,ZAF,"Employment in services, male (% of male employment) (modeled ILO estimate)",61.6389999389648,61.9249992370605,Male
+10710,Turkey,TUR,"Employment in services, male (% of male employment) (modeled ILO estimate)",53.4970016479492,53.8779983520508,Male
+11334,United States,USA,"Employment in services, male (% of male employment) (modeled ILO estimate)",68.75,68.8259963989258,Male
+11958,United Kingdom,GBR,"Employment in services, male (% of male employment) (modeled ILO estimate)",70.9990005493164,71.3519973754883,Male
+12582,European Union,EUU,"Employment in services, male (% of male employment) (modeled ILO estimate)",59.3267589167864,59.6282457522116,Male

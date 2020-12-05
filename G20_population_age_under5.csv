@@ -1,0 +1,241 @@
+,Country Name,Country Code,Series Name,2018,2019,Age,Gender
+21,Argentina,ARG,"Age population, age 0, female, interpolated",367796,365277,0,Female
+645,Australia,AUS,"Age population, age 0, female, interpolated",159460,163020,0,Female
+1269,Brazil,BRA,"Age population, age 0, female, interpolated",1438921,1422845,0,Female
+1893,Canada,CAN,"Age population, age 0, female, interpolated",188712,193067,0,Female
+2517,China,CHN,"Age population, age 0, female, interpolated",7888935,7745542,0,Female
+3141,France,FRA,"Age population, age 0, female, interpolated",348420,340973,0,Female
+3765,Germany,DEU,"Age population, age 0, female, interpolated",394126,405170,0,Female
+4389,India,IND,"Age population, age 0, female, interpolated",11175670,11385787,0,Female
+5013,Indonesia,IDN,"Age population, age 0, female, interpolated",2319815,2230832,0,Female
+5637,Italy,ITA,"Age population, age 0, female, interpolated",218297,212928,0,Female
+6261,Japan,JPN,"Age population, age 0, female, interpolated",454029,435574,0,Female
+6885,Mexico,MEX,"Age population, age 0, female, interpolated",1075413,1058054,0,Female
+7509,"Korea, Rep.",KOR,"Age population, age 0, female, interpolated",173778,161213,0,Female
+8133,Russian Federation,RUS,"Age population, age 0, female, interpolated",903353,875687,0,Female
+8757,Saudi Arabia,SAU,"Age population, age 0, female, interpolated",288172,284443,0,Female
+9381,Singapore,SGP,"Age population, age 0, female, interpolated",25376,27436,0,Female
+10005,South Africa,ZAF,"Age population, age 0, female, interpolated",558296,556644,0,Female
+10629,Turkey,TUR,"Age population, age 0, female, interpolated",642391,627203,0,Female
+11253,United States,USA,"Age population, age 0, female, interpolated",1889074,1922530,0,Female
+11877,United Kingdom,GBR,"Age population, age 0, female, interpolated",365969,363253,0,Female
+22,Argentina,ARG,"Age population, age 0, male, interpolated",381971,379410,0,Male
+646,Australia,AUS,"Age population, age 0, male, interpolated",168339,172289,0,Male
+1270,Brazil,BRA,"Age population, age 0, male, interpolated",1507430,1489800,0,Male
+1894,Canada,CAN,"Age population, age 0, male, interpolated",198667,203109,0,Male
+2518,China,CHN,"Age population, age 0, male, interpolated",8863844,8701319,0,Male
+3142,France,FRA,"Age population, age 0, male, interpolated",365481,357890,0,Male
+3766,Germany,DEU,"Age population, age 0, male, interpolated",414214,426005,0,Male
+4390,India,IND,"Age population, age 0, male, interpolated",12309129,12518937,0,Male
+5014,Indonesia,IDN,"Age population, age 0, male, interpolated",2430130,2345601,0,Male
+5638,Italy,ITA,"Age population, age 0, male, interpolated",231996,225949,0,Male
+6262,Japan,JPN,"Age population, age 0, male, interpolated",479185,459741,0,Male
+6886,Mexico,MEX,"Age population, age 0, male, interpolated",1125287,1108620,0,Male
+7510,"Korea, Rep.",KOR,"Age population, age 0, male, interpolated",184289,170974,0,Male
+8134,Russian Federation,RUS,"Age population, age 0, male, interpolated",955008,924141,0,Male
+8758,Saudi Arabia,SAU,"Age population, age 0, male, interpolated",297953,293909,0,Male
+9382,Singapore,SGP,"Age population, age 0, male, interpolated",27133,29521,0,Male
+10006,South Africa,ZAF,"Age population, age 0, male, interpolated",573181,571618,0,Male
+10630,Turkey,TUR,"Age population, age 0, male, interpolated",673897,656598,0,Male
+11254,United States,USA,"Age population, age 0, male, interpolated",1975211,2009437,0,Male
+11878,United Kingdom,GBR,"Age population, age 0, male, interpolated",384382,381137,0,Male
+23,Argentina,ARG,"Age population, age 01, female, interpolated",367787,366879,1,Female
+647,Australia,AUS,"Age population, age 01, female, interpolated",159893,162149,1,Female
+1271,Brazil,BRA,"Age population, age 01, female, interpolated",1429212,1422022,1,Female
+1895,Canada,CAN,"Age population, age 01, female, interpolated",192041,193821,1,Female
+2519,China,CHN,"Age population, age 01, female, interpolated",8011836,7911857,1,Female
+3143,France,FRA,"Age population, age 01, female, interpolated",357548,351008,1,Female
+3767,Germany,DEU,"Age population, age 01, female, interpolated",384212,395772,1,Female
+4391,India,IND,"Age population, age 01, female, interpolated",11122052,11187267,1,Female
+5015,Indonesia,IDN,"Age population, age 01, female, interpolated",2348196,2302607,1,Female
+5639,Italy,ITA,"Age population, age 01, female, interpolated",229365,223109,1,Female
+6263,Japan,JPN,"Age population, age 01, female, interpolated",476014,460368,1,Female
+6887,Mexico,MEX,"Age population, age 01, female, interpolated",1080863,1070514,1,Female
+7511,"Korea, Rep.",KOR,"Age population, age 01, female, interpolated",190398,180261,1,Female
+8135,Russian Federation,RUS,"Age population, age 01, female, interpolated",919051,903891,1,Female
+8759,Saudi Arabia,SAU,"Age population, age 01, female, interpolated",294403,292177,1,Female
+9383,Singapore,SGP,"Age population, age 01, female, interpolated",24213,25443,1,Female
+10007,South Africa,ZAF,"Age population, age 01, female, interpolated",570426,567291,1,Female
+10631,Turkey,TUR,"Age population, age 01, female, interpolated",651292,641441,1,Female
+11255,United States,USA,"Age population, age 01, female, interpolated",1905931,1916465,1,Female
+11879,United Kingdom,GBR,"Age population, age 01, female, interpolated",382773,378374,1,Female
+24,Argentina,ARG,"Age population, age 01, male, interpolated",381843,380945,1,Male
+648,Australia,AUS,"Age population, age 01, male, interpolated",168716,171213,1,Male
+1272,Brazil,BRA,"Age population, age 01, male, interpolated",1497080,1489267,1,Male
+1896,Canada,CAN,"Age population, age 01, male, interpolated",201620,203562,1,Male
+2520,China,CHN,"Age population, age 01, male, interpolated",9045198,8909715,1,Male
+3144,France,FRA,"Age population, age 01, male, interpolated",374192,367359,1,Male
+3768,Germany,DEU,"Age population, age 01, male, interpolated",404202,416418,1,Male
+4392,India,IND,"Age population, age 01, male, interpolated",12238208,12303679,1,Male
+5016,Indonesia,IDN,"Age population, age 01, male, interpolated",2453364,2410167,1,Male
+5640,Italy,ITA,"Age population, age 01, male, interpolated",243673,236914,1,Male
+6264,Japan,JPN,"Age population, age 01, male, interpolated",502311,485843,1,Male
+6888,Mexico,MEX,"Age population, age 01, male, interpolated",1130970,1120728,1,Male
+7512,"Korea, Rep.",KOR,"Age population, age 01, male, interpolated",201089,190489,1,Male
+8136,Russian Federation,RUS,"Age population, age 01, male, interpolated",971514,954828,1,Male
+8760,Saudi Arabia,SAU,"Age population, age 01, male, interpolated",304208,301804,1,Male
+9384,Singapore,SGP,"Age population, age 01, male, interpolated",26036,27460,1,Male
+10008,South Africa,ZAF,"Age population, age 01, male, interpolated",585480,582233,1,Male
+10632,Turkey,TUR,"Age population, age 01, male, interpolated",682520,671379,1,Male
+11256,United States,USA,"Age population, age 01, male, interpolated",1992661,2003035,1,Male
+11880,United Kingdom,GBR,"Age population, age 01, male, interpolated",401733,396982,1,Male
+25,Argentina,ARG,"Age population, age 02, female, interpolated",367338,367669,2,Female
+649,Australia,AUS,"Age population, age 02, female, interpolated",159953,161348,2,Female
+1273,Brazil,BRA,"Age population, age 02, female, interpolated",1422486,1421275,2,Female
+1897,Canada,CAN,"Age population, age 02, female, interpolated",194239,194249,2,Female
+2521,China,CHN,"Age population, age 02, female, interpolated",8090213,8028851,2,Female
+3145,France,FRA,"Age population, age 02, female, interpolated",365457,359776,2,Female
+3769,Germany,DEU,"Age population, age 02, female, interpolated",375849,387479,2,Female
+4393,India,IND,"Age population, age 02, female, interpolated",11115593,11070664,2,Female
+5017,Indonesia,IDN,"Age population, age 02, female, interpolated",2365269,2352661,2,Female
+5641,Italy,ITA,"Age population, age 02, female, interpolated",239065,232334,2,Female
+6265,Japan,JPN,"Age population, age 02, female, interpolated",493996,480926,2,Female
+6889,Mexico,MEX,"Age population, age 02, female, interpolated",1085302,1080199,2,Female
+7513,"Korea, Rep.",KOR,"Age population, age 02, female, interpolated",202981,195110,2,Female
+8137,Russian Federation,RUS,"Age population, age 02, female, interpolated",926909,922175,2,Female
+8761,Saudi Arabia,SAU,"Age population, age 02, female, interpolated",298118,297291,2,Female
+9385,Singapore,SGP,"Age population, age 02, female, interpolated",23283,23880,2,Female
+10009,South Africa,ZAF,"Age population, age 02, female, interpolated",578414,574838,2,Female
+10633,Turkey,TUR,"Age population, age 02, female, interpolated",658125,652538,2,Female
+11257,United States,USA,"Age population, age 02, female, interpolated",1922813,1916403,2,Female
+11881,United Kingdom,GBR,"Age population, age 02, female, interpolated",394828,389799,2,Female
+26,Argentina,ARG,"Age population, age 02, male, interpolated",381284,381664,2,Male
+650,Australia,AUS,"Age population, age 02, male, interpolated",168728,170251,2,Male
+1274,Brazil,BRA,"Age population, age 02, male, interpolated",1489697,1488567,2,Male
+1898,Canada,CAN,"Age population, age 02, male, interpolated",203531,203748,2,Male
+2522,China,CHN,"Age population, age 02, male, interpolated",9175621,9068399,2,Male
+3146,France,FRA,"Age population, age 02, male, interpolated",381888,375814,2,Male
+3770,Germany,DEU,"Age population, age 02, male, interpolated",395923,408148,2,Male
+4394,India,IND,"Age population, age 02, male, interpolated",12225142,12179091,2,Male
+5018,Indonesia,IDN,"Age population, age 02, male, interpolated",2467541,2455538,2,Male
+5642,Italy,ITA,"Age population, age 02, male, interpolated",253882,246779,2,Male
+6266,Japan,JPN,"Age population, age 02, male, interpolated",521232,507489,2,Male
+6890,Mexico,MEX,"Age population, age 02, male, interpolated",1135693,1130294,2,Male
+7514,"Korea, Rep.",KOR,"Age population, age 02, male, interpolated",213872,205742,2,Male
+8138,Russian Federation,RUS,"Age population, age 02, male, interpolated",979555,974632,2,Male
+8762,Saudi Arabia,SAU,"Age population, age 02, male, interpolated",307923,307020,2,Male
+9386,Singapore,SGP,"Age population, age 02, male, interpolated",25090,25794,2,Male
+10010,South Africa,ZAF,"Age population, age 02, male, interpolated",593471,589669,2,Male
+10634,Turkey,TUR,"Age population, age 02, male, interpolated",689097,682873,2,Male
+11258,United States,USA,"Age population, age 02, male, interpolated",2010298,2003058,2,Male
+11882,United Kingdom,GBR,"Age population, age 02, male, interpolated",414156,408935,2,Male
+27,Argentina,ARG,"Age population, age 03, female, interpolated",369125,367740,3,Female
+651,Australia,AUS,"Age population, age 03, female, interpolated",155722,160603,3,Female
+1275,Brazil,BRA,"Age population, age 03, female, interpolated",1437679,1420892,3,Female
+1899,Canada,CAN,"Age population, age 03, female, interpolated",187590,194400,3,Female
+2523,China,CHN,"Age population, age 03, female, interpolated",8157517,8102122,3,Female
+3147,France,FRA,"Age population, age 03, female, interpolated",374914,367336,3,Female
+3771,Germany,DEU,"Age population, age 03, female, interpolated",367371,380293,3,Female
+4395,India,IND,"Age population, age 03, female, interpolated",10888071,11025350,3,Female
+5019,Indonesia,IDN,"Age population, age 03, female, interpolated",2462275,2383568,3,Female
+5643,Italy,ITA,"Age population, age 03, female, interpolated",244768,240634,3,Female
+6267,Japan,JPN,"Age population, age 03, female, interpolated",512685,497655,3,Female
+6891,Mexico,MEX,"Age population, age 03, female, interpolated",1103006,1087414,3,Female
+7515,"Korea, Rep.",KOR,"Age population, age 03, female, interpolated",215864,206246,3,Female
+8139,Russian Federation,RUS,"Age population, age 03, female, interpolated",939023,931509,3,Female
+8763,Saudi Arabia,SAU,"Age population, age 03, female, interpolated",299684,300013,3,Female
+9387,Singapore,SGP,"Age population, age 03, female, interpolated",20354,22710,3,Female
+10011,South Africa,ZAF,"Age population, age 03, female, interpolated",575591,579528,3,Female
+10635,Turkey,TUR,"Age population, age 03, female, interpolated",672314,660825,3,Female
+11259,United States,USA,"Age population, age 03, female, interpolated",1891610,1921537,3,Female
+11883,United Kingdom,GBR,"Age population, age 03, female, interpolated",395395,397882,3,Female
+28,Argentina,ARG,"Age population, age 03, male, interpolated",383117,381663,3,Male
+652,Australia,AUS,"Age population, age 03, male, interpolated",164091,169382,3,Male
+1276,Brazil,BRA,"Age population, age 03, male, interpolated",1506355,1488018,3,Male
+1900,Canada,CAN,"Age population, age 03, male, interpolated",196934,203710,3,Male
+2524,China,CHN,"Age population, age 03, male, interpolated",9244661,9182296,3,Male
+3148,France,FRA,"Age population, age 03, male, interpolated",391612,383277,3,Male
+3772,Germany,DEU,"Age population, age 03, male, interpolated",387932,401181,3,Male
+4396,India,IND,"Age population, age 03, male, interpolated",12011920,12133716,3,Male
+5020,Indonesia,IDN,"Age population, age 03, male, interpolated",2561127,2484000,3,Male
+5644,Italy,ITA,"Age population, age 03, male, interpolated",260381,255594,3,Male
+6268,Japan,JPN,"Age population, age 03, male, interpolated",540963,525107,3,Male
+6892,Mexico,MEX,"Age population, age 03, male, interpolated",1152559,1137564,3,Male
+7516,"Korea, Rep.",KOR,"Age population, age 03, male, interpolated",227472,217240,3,Male
+8140,Russian Federation,RUS,"Age population, age 03, male, interpolated",993855,984625,3,Male
+8764,Saudi Arabia,SAU,"Age population, age 03, male, interpolated",309771,309790,3,Male
+9388,Singapore,SGP,"Age population, age 03, male, interpolated",21535,24496,3,Male
+10012,South Africa,ZAF,"Age population, age 03, male, interpolated",589856,594173,3,Male
+10636,Turkey,TUR,"Age population, age 03, male, interpolated",705494,691429,3,Male
+11260,United States,USA,"Age population, age 03, male, interpolated",1978604,2008621,3,Male
+11884,United Kingdom,GBR,"Age population, age 03, male, interpolated",415317,417366,3,Male
+29,Argentina,ARG,"Age population, age 04, female, interpolated",366820,368356,4,Female
+653,Australia,AUS,"Age population, age 04, female, interpolated",156885,158046,4,Female
+1277,Brazil,BRA,"Age population, age 04, female, interpolated",1429129,1430719,4,Female
+1901,Canada,CAN,"Age population, age 04, female, interpolated",190911,190444,4,Female
+2525,China,CHN,"Age population, age 04, female, interpolated",8144463,8146395,4,Female
+3149,France,FRA,"Age population, age 04, female, interpolated",378992,374745,4,Female
+3773,Germany,DEU,"Age population, age 04, female, interpolated",362036,372809,4,Female
+4397,India,IND,"Age population, age 04, female, interpolated",11080744,10927902,4,Female
+5021,Indonesia,IDN,"Age population, age 04, female, interpolated",2420598,2437870,4,Female
+5645,Italy,ITA,"Age population, age 04, female, interpolated",252668,246400,4,Female
+6269,Japan,JPN,"Age population, age 04, female, interpolated",520980,512282,4,Female
+6893,Mexico,MEX,"Age population, age 04, female, interpolated",1099561,1098870,4,Female
+7517,"Korea, Rep.",KOR,"Age population, age 04, female, interpolated",219181,215335,4,Female
+8141,Russian Federation,RUS,"Age population, age 04, female, interpolated",928047,937182,4,Female
+8765,Saudi Arabia,SAU,"Age population, age 04, female, interpolated",298394,299940,4,Female
+9389,Singapore,SGP,"Age population, age 04, female, interpolated",20877,20922,4,Female
+10013,South Africa,ZAF,"Age population, age 04, female, interpolated",578689,577769,4,Female
+10637,Turkey,TUR,"Age population, age 04, female, interpolated",670937,670753,4,Female
+11261,United States,USA,"Age population, age 04, female, interpolated",1928344,1907921,4,Female
+11885,United Kingdom,GBR,"Age population, age 04, female, interpolated",401261,398744,4,Female
+30,Argentina,ARG,"Age population, age 04, male, interpolated",380658,382279,4,Male
+654,Australia,AUS,"Age population, age 04, male, interpolated",165294,166556,4,Male
+1278,Brazil,BRA,"Age population, age 04, male, interpolated",1496262,1498545,4,Male
+1902,Canada,CAN,"Age population, age 04, male, interpolated",200084,199747,4,Male
+2526,China,CHN,"Age population, age 04, male, interpolated",9289385,9244538,4,Male
+3150,France,FRA,"Age population, age 04, male, interpolated",395815,391043,4,Male
+3774,Germany,DEU,"Age population, age 04, male, interpolated",383021,394167,4,Male
+4398,India,IND,"Age population, age 04, male, interpolated",12212819,12049429,4,Male
+5022,Indonesia,IDN,"Age population, age 04, male, interpolated",2521987,2536917,4,Male
+5646,Italy,ITA,"Age population, age 04, male, interpolated",268399,261904,4,Male
+6270,Japan,JPN,"Age population, age 04, male, interpolated",549675,540545,4,Male
+6894,Mexico,MEX,"Age population, age 04, male, interpolated",1149886,1148699,4,Male
+7518,"Korea, Rep.",KOR,"Age population, age 04, male, interpolated",231008,226892,4,Male
+8142,Russian Federation,RUS,"Age population, age 04, male, interpolated",980945,991369,4,Male
+8766,Saudi Arabia,SAU,"Age population, age 04, male, interpolated",308282,309853,4,Male
+9390,Singapore,SGP,"Age population, age 04, male, interpolated",22200,22301,4,Male
+10014,South Africa,ZAF,"Age population, age 04, male, interpolated",592959,591848,4,Male
+10638,Turkey,TUR,"Age population, age 04, male, interpolated",703207,702883,4,Male
+11262,United States,USA,"Age population, age 04, male, interpolated",2016975,1995089,4,Male
+11886,United Kingdom,GBR,"Age population, age 04, male, interpolated",421047,418574,4,Male
+31,Argentina,ARG,"Age population, age 05, female, interpolated",364442,366559,5,Female
+655,Australia,AUS,"Age population, age 05, female, interpolated",157510,158443,5,Female
+1279,Brazil,BRA,"Age population, age 05, female, interpolated",1424635,1427123,5,Female
+1903,Canada,CAN,"Age population, age 05, female, interpolated",193142,192046,5,Female
+2527,China,CHN,"Age population, age 05, female, interpolated",8110165,8138421,5,Female
+3151,France,FRA,"Age population, age 05, female, interpolated",382426,379169,5,Female
+3775,Germany,DEU,"Age population, age 05, female, interpolated",357946,367905,5,Female
+4399,India,IND,"Age population, age 05, female, interpolated",11272808,11070531,5,Female
+5023,Indonesia,IDN,"Age population, age 05, female, interpolated",2380191,2413297,5,Female
+5647,Italy,ITA,"Age population, age 05, female, interpolated",259415,253442,5,Female
+6271,Japan,JPN,"Age population, age 05, female, interpolated",527434,520926,5,Female
+6895,Mexico,MEX,"Age population, age 05, female, interpolated",1096528,1098214,5,Female
+7519,"Korea, Rep.",KOR,"Age population, age 05, female, interpolated",220989,219006,5,Female
+8143,Russian Federation,RUS,"Age population, age 05, female, interpolated",912620,928061,5,Female
+8767,Saudi Arabia,SAU,"Age population, age 05, female, interpolated",295579,298234,5,Female
+9391,Singapore,SGP,"Age population, age 05, female, interpolated",21372,21040,5,Female
+10015,South Africa,ZAF,"Age population, age 05, female, interpolated",578788,578995,5,Female
+10639,Turkey,TUR,"Age population, age 05, female, interpolated",669111,671380,5,Female
+11263,United States,USA,"Age population, age 05, female, interpolated",1961102,1933584,5,Female
+11887,United Kingdom,GBR,"Age population, age 05, female, interpolated",404096,402514,5,Female
+32,Argentina,ARG,"Age population, age 05, male, interpolated",378136,380365,5,Male
+656,Australia,AUS,"Age population, age 05, male, interpolated",165949,166943,5,Male
+1280,Brazil,BRA,"Age population, age 05, male, interpolated",1490382,1493902,5,Male
+1904,Canada,CAN,"Age population, age 05, male, interpolated",202195,201219,5,Male
+2528,China,CHN,"Age population, age 05, male, interpolated",9303534,9284659,5,Male
+3152,France,FRA,"Age population, age 05, male, interpolated",399473,395703,5,Male
+3776,Germany,DEU,"Age population, age 05, male, interpolated",379483,389822,5,Male
+4400,India,IND,"Age population, age 05, male, interpolated",12419865,12203000,5,Male
+5024,Indonesia,IDN,"Age population, age 05, male, interpolated",2484997,2514529,5,Male
+5648,Italy,ITA,"Age population, age 05, male, interpolated",275250,269131,5,Male
+6272,Japan,JPN,"Age population, age 05, male, interpolated",556452,549639,5,Male
+6896,Mexico,MEX,"Age population, age 05, male, interpolated",1147427,1148575,5,Male
+7520,"Korea, Rep.",KOR,"Age population, age 05, male, interpolated",233072,230823,5,Male
+8144,Russian Federation,RUS,"Age population, age 05, male, interpolated",963374,980817,5,Male
+8768,Saudi Arabia,SAU,"Age population, age 05, male, interpolated",305284,308017,5,Male
+9392,Singapore,SGP,"Age population, age 05, male, interpolated",22750,22425,5,Male
+10016,South Africa,ZAF,"Age population, age 05, male, interpolated",592901,592922,5,Male
+10640,Turkey,TUR,"Age population, age 05, male, interpolated",700599,703105,5,Male
+11264,United States,USA,"Age population, age 05, male, interpolated",2051229,2022060,5,Male
+11888,United Kingdom,GBR,"Age population, age 05, male, interpolated",423671,422266,5,Male
